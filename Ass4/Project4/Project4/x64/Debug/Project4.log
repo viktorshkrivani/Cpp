@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\vikto\source\repos\fmt_lib_test\Project4\Project4\FileName.cpp(10,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vikto\source\repos\fmt_lib_test\Project4\Project4\FileName.cpp(11,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project4.vcxproj -> C:\Users\vikto\source\repos\fmt_lib_test\Project4\x64\Debug\Project4.exe

@@ -1,0 +1,18 @@
+﻿  FileName.cpp
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,10): error C2143: syntax error: missing ';' before '!'
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C2001: newline in constant
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C2015: too many characters in constant
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C2588: '::!Here': illegal global finalizer
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(2,15): error C2059: syntax error: 'constant'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(15,13): error C2131: expression did not evaluate to a constant
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(15,13): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(15,13): message : see usage of 'size'
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(18,13): warning C4552: '>>': result of expression not used
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(23,24): warning C4552: '<<': result of expression not used
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(30,24): warning C4552: '<<': result of expression not used
+C:\Users\vikto\source\repos\fmt_lib_test\Project2\Project2\FileName.cpp(35,24): warning C4552: '<<': result of expression not used
