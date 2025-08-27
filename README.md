@@ -22,7 +22,9 @@ This repository contains 10 assignments for [Course Name].
 - [Assignment 6 — Basketball Season Scores with Dynamic Arrays](./Ass6/README.md)  
   Manage scores for 5 games using a dynamic array: update a selected game, print all scores, and calculate the total season score.
   
-- [Assignment 1](./Ass1/README.md): Description of assignment 7
+- [Assignment 7 — Wizard Class with Encapsulation](./Ass7/README.md)  
+  Create a `Wizard` class with private members (age, first name, last name, ID) and public getter/setter methods, then output the wizard’s details.
+  
 - [Assignment 2](./Ass2/README.md): Description of assignment 8
 - [Assignment 3](./Ass3/README.md): Description of assignment 9
 - [Assignment 1](./Ass1/README.md): Description of assignment 10
