@@ -1,4 +1,4 @@
-# Assignment 8 🏟️ — Arena and ArenaArea Classes (Inheritance & Overriding)
+# 🏟️ Assignment 8 — Arena and ArenaArea Classes (Inheritance & Overriding)
 
 ## Objective
 Write a C++ program that uses **inheritance** and **function overriding** to compute the radius squared and area of a wizard tournament arena.
