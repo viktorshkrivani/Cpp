@@ -17,6 +17,7 @@ Code location — `Cpp/Ass1/Project1/Project1/FileName.cpp`
 **Input:**
 
 5
+
 10 20 30 40 50
 
 **Output:**
