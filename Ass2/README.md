@@ -9,7 +9,8 @@ Write a C++ program that reads **two integers** (each on its own line) and, for 
 
 Assume `a ≤ b`.
 
-Code location — `Ass2/Project2/Project2/FileName.cpp` 
+[Code location](./Project2/Project2/FileName.cpp)
+
 ## Sample Input/Output
 
 **Input:**
