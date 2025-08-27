@@ -1,4 +1,5 @@
 # 💱 Assignment 10 — Currency Exchange with Inheritance & File Handling
+[Code location](./Project10/Project10/FileName.cpp)
 
 ## Objective
 Write a C++ program using inheritance to convert foreign currency (Yuan, Euro, Pounds) into USD with a 5% fee, then print and save the transaction details into a receipt file.
