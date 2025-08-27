@@ -25,7 +25,9 @@ This repository contains 10 assignments for [Course Name].
 - [Assignment 7 — Wizard Class with Encapsulation](./Ass7/README.md)  
   Create a `Wizard` class with private members (age, first name, last name, ID) and public getter/setter methods, then output the wizard’s details.
   
-- [Assignment 2](./Ass2/README.md): Description of assignment 8
+- [Assignment 8 — Arena and ArenaArea Classes (Inheritance & Overriding)](./Ass8/README.md)  
+  Implement `Arena` and `ArenaArea` classes; compute radius² and area using inheritance and function overriding.
+
 - [Assignment 3](./Ass3/README.md): Description of assignment 9
 - [Assignment 1](./Ass1/README.md): Description of assignment 10
 
