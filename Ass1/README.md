@@ -9,7 +9,7 @@ Write a C++ program that calculates a dragon mount’s age in **wizard years**.
 
 The program should read a dragon’s **name** and **age** from input and print a message showing the equivalent wizard years.  
 
-Code location --- [FileName.cpp](./Cpp/Ass1/Project1/FileName.cpp)
+Code location --- [Ass1/Project1/Project1](./Ass1/Project1/Project1)
 
 
 ##  Sample Input/Output  
