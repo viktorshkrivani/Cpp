@@ -1,5 +1,5 @@
 # 🧙 Assignment 7 — Wizard Class with Encapsulation
-
+[Code location](./Project7/Project7/FileName.cpp)
 
 ## Objective
 Write a C++ program that defines a class `Wizard` to represent wizards at Ravenwood School of Magical Arts.  
