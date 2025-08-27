@@ -28,7 +28,9 @@ This repository contains 10 assignments for [Course Name].
 - [Assignment 8 — Arena and ArenaArea Classes (Inheritance & Overriding)](./Ass8/README.md)  
   Implement `Arena` and `ArenaArea` classes; compute radius² and area using inheritance and function overriding.
 
-- [Assignment 3](./Ass3/README.md): Description of assignment 9
+- [Assignment 9 — Creature Inheritance and Polymorphism](./Ass9/README.md)  
+  Implement `Creature`, `Phoenix`, and `Basilisk` classes with inheritance and overriding, then print details of each.
+  
 - [Assignment 1](./Ass1/README.md): Description of assignment 10
 
 
