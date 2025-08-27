@@ -13,7 +13,9 @@ This repository contains 10 assignments for [Course Name].
 - [Assignment 3 — Reverse Numbers (Array Backwards)](./Ass3/README.md)  
   Read an integer `n` and `n` space-separated integers, then print the numbers in reverse order, space-delimited, on a single line.
   
-- [Assignment 1](./Ass1/README.md): Description of assignment 4
+- [Assignment 4 — BMI Calculator with Function Overloading](./Ass4/README.md)  
+  Calculate BMI for two inputs of weight (kg) and one height (feet, converted to meters) using function overloading, then swap weights and recalculate.
+  
 - [Assignment 2](./Ass2/README.md): Description of assignment 5
 - [Assignment 3](./Ass3/README.md): Description of assignment 6
 - [Assignment 1](./Ass1/README.md): Description of assignment 7
