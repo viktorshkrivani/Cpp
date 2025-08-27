@@ -1,8 +1,4 @@
 
-Certainly!Here's an updated version of the code that uses the std::sort function from the <algorithm> header to sort the array instead of the bubble sort algorithm:
-
-cpp
-Copy code
 #include <iostream>
 #include <algorithm>
 using namespace std;
