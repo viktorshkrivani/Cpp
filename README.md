@@ -31,6 +31,7 @@ This repository contains 10 assignments for [Course Name].
 - [Assignment 9 — Creature Inheritance and Polymorphism](./Ass9/README.md)  
   Implement `Creature`, `Phoenix`, and `Basilisk` classes with inheritance and overriding, then print details of each.
   
-- [Assignment 1](./Ass1/README.md): Description of assignment 10
+- [Assignment 10 — Currency Exchange with Inheritance & File Handling](./Ass10/README.md)  
+  Convert Yuan, Euro, or Pounds to USD with a 5% fee, then save and print results via a receipt file.
 
 
