@@ -1,4 +1,5 @@
 # 🏀 Assignment 6 — Basketball Season Scores with Dynamic Arrays
+[Code location](./Project6/Project6/FileName.cpp)
 
 ## Objective
 Write a C++ program that manages the scores for a basketball team across 5 games in a season using dynamic arrays and functions.
