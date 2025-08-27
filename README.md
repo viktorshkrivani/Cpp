@@ -1,6 +1,6 @@
 # C++ Assignments
 
-This repository contains 10 assignments for [Course Name].
+This repository contains 10 assignments for C++.
 
 ## Table of Contents
 
